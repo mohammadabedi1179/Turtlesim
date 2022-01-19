@@ -1,3 +1,3 @@
 # Turtlesim
 ROS miniproject for Taarlab
-turtlesim to follow in your desired direction
+turtlesim to make robot follow your desired direction
